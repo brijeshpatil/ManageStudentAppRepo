@@ -1,0 +1,6 @@
+D:\Brijesh\Dot Net\IOS\Services\XMLServiceExample\ManageStudentServicexml\ManageStudentServicexml\bin\ManageStudentServicexml.dll.config
+D:\Brijesh\Dot Net\IOS\Services\XMLServiceExample\ManageStudentServicexml\ManageStudentServicexml\bin\ManageStudentServicexml.dll
+D:\Brijesh\Dot Net\IOS\Services\XMLServiceExample\ManageStudentServicexml\ManageStudentServicexml\bin\ManageStudentServicexml.pdb
+D:\Brijesh\Dot Net\IOS\Services\XMLServiceExample\ManageStudentServicexml\ManageStudentServicexml\obj\Debug\ManageStudentServicexml.csprojResolveAssemblyReference.cache
+D:\Brijesh\Dot Net\IOS\Services\XMLServiceExample\ManageStudentServicexml\ManageStudentServicexml\obj\Debug\ManageStudentServicexml.dll
+D:\Brijesh\Dot Net\IOS\Services\XMLServiceExample\ManageStudentServicexml\ManageStudentServicexml\obj\Debug\ManageStudentServicexml.pdb
